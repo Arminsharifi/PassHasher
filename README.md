@@ -3,3 +3,4 @@
 
 A Program that hash your text into SHA1 And MD5
 i made this for my own use but if you like it you can download source or release file here
+https://storage.arminsharifi.ir/PassHasher.rar
